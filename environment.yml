@@ -1,17 +1,17 @@
-name: simulatorORCSE4529
+name: glosten-milgrom-rl
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.11
-  - ipykernel
-  - matplotlib
-  - pandas
-  - pathlib
   - numpy
+  - pandas
   - scipy
+  - matplotlib
+  - seaborn
   - tqdm
   - joblib
   - jsons
-  - seaborn
-prefix: /Users/salim/miniconda3/envs/simulatorORCSE4529
+  - pathlib
+  - ipykernel
+  - jupyter
