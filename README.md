@@ -2,7 +2,7 @@
 
 This repository implements a discrete-event limit order book (LOB) simulator with multiple trader types, including tabular reinforcement-learning (RL) market makers, in a Glosten–Milgrom–style information environment. It was developed as part of the Columbia University course ORCSE4529 (Reinforcement Learning) taught by Prof. Shipra Agrawal, and is used to compare RL market-making policies against classical baselines.
 
-**The full project report is available here: [`Report.pdf`](./Report.pdf).**
+**The full project report is available here: [`Reinforcement Learning Market Makers in a Glosten-Milgrom Environment - Bennouna, Jelenkovic, Karam, Souaid.pdf`](./Reinforcement Learning Market Makers in a Glosten-Milgrom Environment - Bennouna, Jelenkovic, Karam, Souaid.pdf).**
 
 ---
 
